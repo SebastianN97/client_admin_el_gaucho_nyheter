@@ -1,5 +1,66 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# The News Room Challenge:
 
+We were challenged with building a newpaper application with three clients, user, admin and mobile which were all being dealt with by a single API.
+
+- [User](https://github.com/SebastianN97/client_user_el_gaucho_nyheter)
+- [Admin](https://github.com/SebastianN97/client_admin_el_gaucho_nyheter)
+- [Mobile](https://github.com/SebastianN97/mobile_el_gaucho_nyheter)
+- [API](https://github.com/SebastianN97/api_el_gaucho_nyheter)
+
+## Team:
+
+- Connor Roelofsen.
+- Sebastian Niewiadomski.
+- Mauro Avellaneda.
+- Sara Lundkvist.
+
+## Built with
+
+React v.16.13.1 </br>
+**Testing framework:** Cypress
+
+## Getting started
+
+### Dependencies
+
+- Yarn
+- React
+- Cypress
+- Axios
+- Semantic-ui-react
+- Image-uploading
+- React-redux
+
+### Necessary steps:
+
+```
+$ yarn install
+```
+
+### Start Cypress:
+
+```
+$ yarn cy:open
+```
+
+### Compile and deploy the React application locally:
+
+```
+$ yarn start
+```
+
+### Login credentials
+
+- email: journalist@mail.com password: password
+
+## Updates/Improvements
+
+- 
+- 
+- 
+
+---------------------------------------------------------------------
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ### `yarn start`
@@ -64,3 +125,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## License
+
+[MIT-license](https://en.wikipedia.org/wiki/MIT_License)
