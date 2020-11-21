@@ -1,6 +1,6 @@
 # The News Room Challenge:
 
-We were challenged with building a newpaper application with three clients, user, admin and mobile which were all being dealt with by a single API.
+We were challenged with building a newspaper application with three clients, user, admin and mobile which were all being dealt with by a single API.
 
 - [User](https://github.com/SebastianN97/client_user_el_gaucho_nyheter)
 - [Admin](https://github.com/SebastianN97/client_admin_el_gaucho_nyheter)
@@ -9,8 +9,8 @@ We were challenged with building a newpaper application with three clients, user
 
 ## Team:
 
-- Connor Roelofsen.
 - Sebastian Niewiadomski.
+- Connor Roelofsen.
 - Mauro Avellaneda.
 - Sara Lundkvist.
 
@@ -52,12 +52,6 @@ $ yarn start
 ### Login credentials
 
 - email: journalist@mail.com password: password
-
-## Updates/Improvements
-
-- 
-- 
-- 
 
 ---------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
